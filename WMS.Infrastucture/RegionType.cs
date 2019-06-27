@@ -30,5 +30,5 @@ namespace WMS.Infrastucture
         /// 公共主体层
         /// </summary>
         public const string CommRegion = "CommRegion";
-    }
+    } 
 }
